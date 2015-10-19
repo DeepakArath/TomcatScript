@@ -1,4 +1,4 @@
-### Puppet Script for Tomcat and JAVA Installation and Configurations in RGB environment.
+### Puppet Script for Tomcat and JAVA Installation
 
 This puppet script different modules that needed for various server side installations and configurations. Configured each installation/configuration as separate modules.
 
